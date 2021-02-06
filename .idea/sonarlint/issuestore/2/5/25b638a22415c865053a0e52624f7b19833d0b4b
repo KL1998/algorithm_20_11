@@ -1,0 +1,9 @@
+
+W
+java:S2864‹"4Iterate over the "entrySet" instead of the "keySet".(‚€£ãúÿÿÿÿ8†İÕò.
+‹
+java:S1319"mThe type of the "nexts" object should be an interface such as "Map" rather than the implementation "HashMap".(Åûî¼8†İÕò.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ØÀ‘Ğøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö“€Ôüÿÿÿÿ
+p
+java:S3776§"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Çµí‘8†İÕò.

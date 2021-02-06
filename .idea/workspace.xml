@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c648626-3322-451b-a14a-5b93d5edf8f6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="algorithm_20_11" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/trainingcamp004" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\maven-repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kipigEt2wMD4g04X1VNw91LcTv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8 (2)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/leetcode-top-100-liked-questions/src/main/java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="class05" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\work\algorithm_20_11\leetcode-top-100-liked-questions\src\main\java" />
+      <recent name="C:\Users\Administrator\Desktop\work\algorithm_20_11\leetcode-top-interview-questions\src\main\java" />
+      <recent name="C:\Users\Administrator\Desktop\work\algorithm_20_11\trainingcamp005\src\main\java" />
+      <recent name="C:\Users\Administrator\Desktop\work\algorithm_20_11\trainingcamp004\src\main\java" />
+      <recent name="C:\Users\Administrator\Desktop\work\algorithm_20_11\trainingcamp004\src\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.code01Trietree">
+    <configuration name="Code01_SlidingWindowMaxArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class01.Code01_SlidingWindowMaxArray" />
+      <module name="trainingcamp001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code01_TrieTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class05.Code01_TrieTree" />
+      <module name="algorithm-based" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code02_TrieTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class05.Code02_TrieTree" />
+      <module name="algorithm-based" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_0283_MoveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topinterviewquestions.Problem_0283_MoveZeroes" />
+      <module name="leetcode-top-interview-questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="topinterviewquestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="code01Trietree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class05.code01Trietree" />
+      <module name="algorithm-based" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.code01Trietree" />
+        <item itemvalue="Application.Code01_TrieTree" />
+        <item itemvalue="Application.Code02_TrieTree" />
+        <item itemvalue="Application.Code01_SlidingWindowMaxArray" />
+        <item itemvalue="Application.Problem_0283_MoveZeroes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c648626-3322-451b-a14a-5b93d5edf8f6" name="Default Changelist" comment="" />
+      <created>1606193394695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606193394695</updated>
+      <workItem from="1606193396294" duration="768000" />
+      <workItem from="1606278744061" duration="13360000" />
+      <workItem from="1606360264164" duration="3545000" />
+      <workItem from="1606469220338" duration="676000" />
+      <workItem from="1606543259099" duration="6949000" />
+      <workItem from="1606636342838" duration="4776000" />
+      <workItem from="1606814890188" duration="4321000" />
+      <workItem from="1606875337699" duration="7442000" />
+      <workItem from="1606916684886" duration="903000" />
+      <workItem from="1606961776671" duration="10555000" />
+      <workItem from="1607057846004" duration="6961000" />
+      <workItem from="1607094045765" duration="1363000" />
+      <workItem from="1607140990394" duration="5556000" />
+      <workItem from="1607240864507" duration="9452000" />
+      <workItem from="1607327695918" duration="13647000" />
+      <workItem from="1607402794978" duration="8175000" />
+      <workItem from="1607434227144" duration="1272000" />
+      <workItem from="1607663478186" duration="8993000" />
+      <workItem from="1607693084915" duration="4864000" />
+      <workItem from="1607755859575" duration="4062000" />
+      <workItem from="1607920939593" duration="1859000" />
+      <workItem from="1608002041179" duration="20738000" />
+      <workItem from="1608100444081" duration="13236000" />
+      <workItem from="1608271304265" duration="7885000" />
+      <workItem from="1608360917831" duration="244000" />
+      <workItem from="1608369797868" duration="532000" />
+      <workItem from="1608446152265" duration="3982000" />
+      <workItem from="1608700776657" duration="875000" />
+      <workItem from="1608701689306" duration="321000" />
+      <workItem from="1608702300726" duration="7267000" />
+      <workItem from="1608780745914" duration="3012000" />
+      <workItem from="1608798317530" duration="1266000" />
+      <workItem from="1608807274167" duration="12000" />
+      <workItem from="1610361938951" duration="6719000" />
+      <workItem from="1610699143855" duration="11121000" />
+      <workItem from="1610875543686" duration="4172000" />
+      <workItem from="1610964019890" duration="2537000" />
+      <workItem from="1611040231827" duration="7094000" />
+      <workItem from="1611104679607" duration="21000" />
+      <workItem from="1611121197499" duration="3940000" />
+      <workItem from="1611214182065" duration="13595000" />
+      <workItem from="1611286904971" duration="19209000" />
+      <workItem from="1611373648351" duration="11071000" />
+      <workItem from="1611462503652" duration="11080000" />
+      <workItem from="1611549627229" duration="10220000" />
+      <workItem from="1611587997822" duration="4489000" />
+      <workItem from="1611636149713" duration="1904000" />
+      <workItem from="1611757611240" duration="12000" />
+      <workItem from="1612069761235" duration="6944000" />
+      <workItem from="1612144915628" duration="3760000" />
+      <workItem from="1612266277758" duration="32000" />
+      <workItem from="1612631488254" duration="604000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="94" key="#Project_Structure" timestamp="1612074028804">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="94" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1612074028804" />
+    <state x="574" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1608700881531">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="142" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1608700881531" />
+    <state x="322" y="353" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1606986654492">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="322" y="353" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.864@0.0.1536.864" timestamp="1606986654492" />
+    <state x="549" y="125" key="FileChooserDialogImpl" timestamp="1608702010676">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="125" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1608702010676" />
+    <state width="1493" height="305" key="GridCell.Tab.0.bottom" timestamp="1611330605477">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="305" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1611330605477" />
+    <state width="1493" height="305" key="GridCell.Tab.0.center" timestamp="1611330605477">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="305" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1611330605477" />
+    <state width="1493" height="305" key="GridCell.Tab.0.left" timestamp="1611330605477">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="305" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1611330605477" />
+    <state width="1493" height="305" key="GridCell.Tab.0.right" timestamp="1611330605477">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="305" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1611330605477" />
+    <state width="1493" height="305" key="GridCell.Tab.1.bottom" timestamp="1611330605478">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="305" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1611330605478" />
+    <state width="1493" height="305" key="GridCell.Tab.1.center" timestamp="1611330605478">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="305" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1611330605478" />
+    <state width="1493" height="305" key="GridCell.Tab.1.left" timestamp="1611330605478">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="305" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1611330605478" />
+    <state width="1493" height="305" key="GridCell.Tab.1.right" timestamp="1611330605478">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="305" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1611330605478" />
+    <state x="299" y="90" key="Maven.ArtifactSearchDialog" timestamp="1611326143284">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="299" y="90" key="Maven.ArtifactSearchDialog/0.0.1536.864@0.0.1536.864" timestamp="1611326143284" />
+    <state x="408" y="136" key="NewModule_or_Project.wizard" timestamp="1607241657229">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="408" y="136" key="NewModule_or_Project.wizard/0.0.1536.864@0.0.1536.864" timestamp="1607241657229" />
+    <state x="215" y="0" key="SettingsEditor" timestamp="1611322059414">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="215" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1611322059414" />
+    <state x="228" y="162" key="new project wizard" timestamp="1611321781779">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="228" y="162" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1611321781779" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1611397908149">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1611397908149" />
+    <state x="431" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1610719695252">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1610719695252" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/algorithm-based/src/main/java/class05/Code02_TrieTree.java</url>
+          <line>294</line>
+          <properties class="class05.Code02_TrieTree" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

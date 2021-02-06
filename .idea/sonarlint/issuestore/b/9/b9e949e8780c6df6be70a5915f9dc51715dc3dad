@@ -1,0 +1,9 @@
+
+†
+java:S1319V"pThe type of the "path" object should be an interface such as "List" rather than the implementation "LinkedList".(ëÞ¡³
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÞþôÆøÿÿÿÿ
+†
+java:S1319'"pThe type of the "path" object should be an interface such as "List" rather than the implementation "LinkedList".(ÌÍÑÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ªÉúñøÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ªÉúñøÿÿÿÿ

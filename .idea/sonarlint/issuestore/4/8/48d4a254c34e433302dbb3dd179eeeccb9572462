@@ -1,0 +1,20 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(™ºƒŞüÿÿÿÿ
+t
+java:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ùè®¢şÿÿÿÿ
+k	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»â©îÿÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åè¦õ
+t
+java:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿Õ“œûÿÿÿÿ
+k
+java:S1192""PDefine a constant instead of duplicating this literal "no such number." 3 times.(•†Ç°úÿÿÿÿ
+f	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ÄÜÓ
+n
+java:S2293a"YReplace the type specification in this constructor call with the diamond operator ("<>").(ëõQ
+ƒ
+java:S1319`"mThe type of the "cands" object should be an interface such as "Map" rather than the implementation "HashMap".(ıÎÏ
+†
+java:S1319P"kThe type of the "map" object should be an interface such as "Map" rather than the implementation "HashMap".(Œ¼–®üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×Ëåıÿÿÿÿ
+ˆ
+java:S1319_"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(±ŒÜ¢úÿÿÿÿ

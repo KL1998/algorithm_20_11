@@ -1,0 +1,11 @@
+
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(çïª
+<
+java:S11680"&Return an empty array instead of null.(¥¹ï
+`
+java:S2259g"J"NullPointerException" will be thrown when invoking method "printArray()".(‹®²Ý
+e
+java:S2259h"J"NullPointerException" will be thrown when invoking method "printArray()".(Å¨«øÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú¿—Üûÿÿÿÿ
+<
+java:S1168"&Return an empty array instead of null.(¥¹ï

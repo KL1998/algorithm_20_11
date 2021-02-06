@@ -1,0 +1,10 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(…œíÌ
+G
+java:S1172"1Remove this unused method parameter "numCourses".(Øßý°
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(…œíÌ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Øßý°
+‹
+java:S1319"pThe type of the "nexts" object should be an interface such as "List" rather than the implementation "ArrayList".(ëÁ§óüÿÿÿÿ

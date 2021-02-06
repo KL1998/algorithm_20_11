@@ -1,0 +1,13 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÞþôÆøÿÿÿÿ
+<
+java:S1168H"&Return an empty array instead of null.(¥¹ï
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(—ÿÃ¤
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€‚Çð8÷¬²Òò.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”›¶Î8÷¬²Òò.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ì‘È¥ûÿÿÿÿ8÷¬²Òò.
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÀŠ…88÷¬²Òò.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍþÙ›8÷¬²Òò.

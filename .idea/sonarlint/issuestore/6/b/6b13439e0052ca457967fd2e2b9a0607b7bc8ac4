@@ -1,0 +1,12 @@
+
+‹
+java:S1319!"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(“Èôûÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ò´…Êşÿÿÿÿ
+‹
+java:S1319"pThe type of the "path" object should be an interface such as "List" rather than the implementation "LinkedList".(¡ëÚøÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Ò´…Êşÿÿÿÿ
+‹
+java:S1319!"pThe type of the "path" object should be an interface such as "List" rather than the implementation "LinkedList".(“Èôûÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(¡ëÚøÿÿÿÿ

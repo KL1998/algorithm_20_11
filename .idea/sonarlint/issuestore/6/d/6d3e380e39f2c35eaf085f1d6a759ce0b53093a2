@@ -1,0 +1,10 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ž¸Ž‚ýÿÿÿÿ
+…
+java:S13190"oThe type of the "que" object should be an interface such as "List" rather than the implementation "LinkedList".(Á·ÇÝ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Öðë‰
+Š
+java:S1319>"oThe type of the "que" object should be an interface such as "List" rather than the implementation "LinkedList".(ŽÄÚÆýÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ž¸Ž‚ýÿÿÿÿ

@@ -1,0 +1,15 @@
+
+\
+java:S1192"FDefine a constant instead of duplicating this literal "Move " 8 times.(‰Ü†™
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(çËü¾üÿÿÿÿ
+k	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ô±Âüÿÿÿÿ
+f	java:S117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾‘¢Ã
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ç¼›áúÿÿÿÿ
+f
+java:S1149n"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ö‘š¨
+q
+java:S2234T"VParameters to func have the same names but not the same order as the method arguments.(¼Ê‚¿úÿÿÿÿ
+l
+java:S2234V"VParameters to func have the same names but not the same order as the method arguments.(¬“„
+D
+java:S1172a")Remove this unused method parameter "f1".(Ô÷®üÿÿÿÿ

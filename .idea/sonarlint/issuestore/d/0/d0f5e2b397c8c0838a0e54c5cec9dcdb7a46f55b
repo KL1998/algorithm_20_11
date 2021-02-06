@@ -1,0 +1,9 @@
+
+€
+java:S1319#"kThe type of the "map" object should be an interface such as "Map" rather than the implementation "HashMap".(Êç¾+
+
+java:S1319E"kThe type of the "map" object should be an interface such as "Map" rather than the implementation "HashMap".(…‰ÑÊ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¿¬ğøÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(¿¬ğøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ©è±ûÿÿÿÿ

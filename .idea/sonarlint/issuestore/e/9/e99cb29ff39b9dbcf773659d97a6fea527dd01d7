@@ -1,0 +1,7 @@
+
+ƒ
+java:S1319k"mThe type of the "nexts" object should be an interface such as "Map" rather than the implementation "HashMap".(Åûî¼
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö“€Ôüÿÿÿÿ
+g	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ù¬ñ¼øÿÿÿÿ
+i
+java:S3776…"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Çµí‘

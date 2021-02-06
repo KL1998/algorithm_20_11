@@ -1,0 +1,9 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ºö¼ðùÿÿÿÿ
+k	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÂ­ÿùÿÿÿÿ
+n	java:S1359"YReduce the total number of break and continue statements in this loop to use at most one.(ŠôÐ®
+k	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÂ­ÿùÿÿÿÿ
+f	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ÂÎâ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ºö¼ðùÿÿÿÿ
+f	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ÂÎâ

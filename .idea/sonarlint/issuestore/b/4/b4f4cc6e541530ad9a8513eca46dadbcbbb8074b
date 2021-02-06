@@ -1,0 +1,12 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ÁãÍ
+m
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¿•ó¦ûÿÿÿÿ
+r	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ—´Şüÿÿÿÿ8é‹ºõ.
+r	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ—´Şüÿÿÿÿ8é‹ºõ.
+k	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÅœÓüÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÁãÍ
+e	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Óäl
+e	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Óäl

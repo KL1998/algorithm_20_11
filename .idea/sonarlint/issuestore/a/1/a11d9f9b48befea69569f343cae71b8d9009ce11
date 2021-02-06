@@ -1,0 +1,7 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×Ëåıÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘†ºƒ
+{
+java:S3012\"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(½ÁÜŠüÿÿÿÿ8ƒë¥ëã.
+C
+java:S1168X"&Return an empty array instead of null.(¥¹ï8ƒë¥ëã.

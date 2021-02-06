@@ -1,0 +1,14 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€‚Çð
+o
+java:S3776K"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(óÛçí8Ÿ»ç¡ò.
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€©’™ýÿÿÿÿ
+f	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€‚Çð
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ðï·ˆ
+r	java:S117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€©’™ýÿÿÿÿ8Ÿ»ç¡ò.
+v
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒŠÐ»8Ÿ»ç¡ò.
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÆŒÖßÿÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ðï·ˆ

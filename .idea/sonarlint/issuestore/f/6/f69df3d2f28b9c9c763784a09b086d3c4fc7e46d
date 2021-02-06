@@ -1,0 +1,33 @@
+
+V
+java:S3518"BMake sure "fristNumSize" can't be zero before doing this division.(Æ›ã
+V
+java:S3518"BMake sure "fristNumSize" can't be zero before doing this division.(¬‰Œï
+`	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²Ó×‰
+i	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö‡…İûÿÿÿÿ
+i	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö‡…İûÿÿÿÿ
+i	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö‡…İûÿÿÿÿ
+d	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€‚Çğ
+i	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í©ç¹øÿÿÿÿ
+d	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢—¶š
+d	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢—¶š
+d	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í´ÓÕ
+m	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢ş€
+[
+java:S2259"BA "NullPointerException" could be thrown; "ans1" is nullable here.(ªÇŸÁüÿÿÿÿ
+[
+java:S2259"BA "NullPointerException" could be thrown; "ans2" is nullable here.(ªÇŸÁüÿÿÿÿ
+[
+java:S2259"BA "NullPointerException" could be thrown; "ans3" is nullable here.(ªÇŸÁüÿÿÿÿ
+:
+java:S1168"&Return an empty array instead of null.(¥¹ï
+:
+java:S1168"&Return an empty array instead of null.(¥¹ï
+:
+java:S1168"&Return an empty array instead of null.(¥¹ï
+c
+java:S1764"JCorrect one of the identical sub-expressions on both sides of operator "-"(´Èÿıÿÿÿÿ
+:
+java:S1168"&Return an empty array instead of null.(¥¹ï
+r
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(½ÁÜŠüÿÿÿÿ

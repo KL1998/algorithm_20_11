@@ -1,0 +1,22 @@
+
+k
+java:S1149N"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¦ü¦üÿÿÿÿ
+k
+java:S1149\"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ä•€”ùÿÿÿÿ
+Q	java:S899&"<Do something with the "boolean" value returned by "hasNext".(­ÍûÑ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ò“íï
+k
+java:S1149N"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¦ü¦üÿÿÿÿ
+k
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Öæ¯íüÿÿÿÿ
+d
+java:S2272*"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(şÿøë
+k
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Öæ¯íüÿÿÿÿ
+k
+java:S1149\"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ä•€”ùÿÿÿÿ
+f
+java:S1149B"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(”ã¯Œ
+Q	java:S899/"<Do something with the "boolean" value returned by "hasNext".(­ÍûÑ
+f
+java:S1149B"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(”ã¯Œ

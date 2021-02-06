@@ -1,0 +1,11 @@
+
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙŒ½F
+‰
+java:S1319""nThe type of the "sumMap" object should be an interface such as "Map" rather than the implementation "HashMap".(å®›ƒüÿÿÿÿ
+k	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å®›ƒüÿÿÿÿ
+k	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å®›ƒüÿÿÿÿ
+?
+java:S1444")Make this "public static ans" field final(—«Şë
+m	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾©”õ8Èéæ…ä.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×Ëåıÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²¬şÿÿÿÿ

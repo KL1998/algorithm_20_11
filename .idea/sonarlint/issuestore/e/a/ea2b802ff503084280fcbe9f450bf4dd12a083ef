@@ -1,0 +1,9 @@
+
+ƒ
+java:S1319"oThe type of the "que" object should be an interface such as "List" rather than the implementation "LinkedList".(Á·ÇÝ
+m
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Öðë‰
+e	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(«åºÃýÿÿÿÿ
+r	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö“€Ôüÿÿÿÿ
+ˆ
+java:S1319"oThe type of the "que" object should be an interface such as "List" rather than the implementation "LinkedList".(ŽÄÚÆýÿÿÿÿ

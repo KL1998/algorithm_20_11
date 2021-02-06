@@ -1,0 +1,15 @@
+
+m
+java:S2259Ñ"V"NullPointerException" will be thrown when invoking method "checkDoubleListReverse()".(‹ùœ„
+r
+java:S2259Ê"V"NullPointerException" will be thrown when invoking method "checkDoubleListReverse()".(¹Ş¹£ıÿÿÿÿ
+f	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÉ·ß
+f	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÉ·ß
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¡œ´ª
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢ş€
+r
+java:S2259Ã"V"NullPointerException" will be thrown when invoking method "checkLinkedListReverse()".(Š³ÓÍúÿÿÿÿ
+m
+java:S2259¼"V"NullPointerException" will be thrown when invoking method "checkLinkedListReverse()".(›öèÍ
+]
+java:S2259ª"AA "NullPointerException" could be thrown; "end" is nullable here.(’¦©³üÿÿÿÿ

@@ -1,0 +1,16 @@
+
+R
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(Ž¼Å‰þÿÿÿÿ
+S
+java:S1118":Add a private constructor to hide the implicit public one.(ñ¡²¯ýÿÿÿÿ
+M
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(ØÚž×
+„
+java:S1319"pThe type of the "list" object should be an interface such as "List" rather than the implementation "LinkedList".(Á•‹Ç
+„
+java:S1319"pThe type of the "list" object should be an interface such as "List" rather than the implementation "LinkedList".(—‹Ž¤
+e	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñ¡²¯ýÿÿÿÿ
+M
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(”£„´
+R
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(êÙÁÁùÿÿÿÿ

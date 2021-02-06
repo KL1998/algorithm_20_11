@@ -1,0 +1,12 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¢é‡½8úÂ²Òò.
+{	java:S135œ"YReduce the total number of break and continue statements in this loop to use at most one.(²å¹ñüÿÿÿÿ8úÂ²Òò.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŞşôÆøÿÿÿÿ8úÂ²Òò.
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8úÂ²Òò.
+r
+java:S1149-"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(úíçÏøÿÿÿÿ8úÂ²Òò.
+o
+java:S3776'"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ğ–€Ğ8úÂ²Òò.
+l
+java:S1764a"JCorrect one of the identical sub-expressions on both sides of operator "-"(´Èÿıÿÿÿÿ8úÂ²Òò.

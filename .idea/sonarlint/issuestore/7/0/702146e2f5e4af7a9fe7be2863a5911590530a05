@@ -1,0 +1,18 @@
+
+f	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©×ïà
+f	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¬›•
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(§ŸÆ§
+m
+java:S3776""RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¶ñÎùÿÿÿÿ
+f	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©×ïà
+?
+java:S1444")Make this "public static arr" field final(ƒ‹°™
+3
+java:S2386"Make this member "protected".(§ŸÆ§
+?
+java:S1444")Make this "public static map" field final(§ŸÆ§
+3
+java:S2386"Make this member "protected".(ƒ‹°™
+
+java:S1319"kThe type of the "map" object should be an interface such as "Map" rather than the implementation "HashMap".(§ŸÆ§

@@ -1,0 +1,10 @@
+
+–
+java:S1319m"tThe type of the "equalCounted" object should be an interface such as "Set" rather than the implementation "HashSet".(Ê—úıÿÿÿÿ8İï’´å.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±ÙŠÉ8İï’´å.
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Å»‚¬ùÿÿÿÿ8İï’´å.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö‡…İûÿÿÿÿ8İï’´å.
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(å¼åËûÿÿÿÿ8İï’´å.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(å¼åËûÿÿÿÿ8İï’´å.

@@ -1,0 +1,20 @@
+
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(”Ú¾-
+s	java:S135t"YReduce the total number of break and continue statements in this loop to use at most one.(×îÔˆûÿÿÿÿ
+n	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(›–’|
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×Ëåıÿÿÿÿ
+S
+java:S2589"8Remove this expression which always evaluates to "false"(êßÆÉüÿÿÿÿ
+<
+java:S1168
+"&Return an empty array instead of null.(¥¹ï
+<
+java:S1172"&Remove these unused method parameters.(Ş“ÜÆ
+O
+java:S3400"9Remove this method and declare a constant for this value.(”·³›
+A
+java:S1172"&Remove these unused method parameters.(£¸‚¡üÿÿÿÿ
+O
+java:S3400 "9Remove this method and declare a constant for this value.(”·³›
+W	java:S125Ÿ"<This block of commented-out lines of code should be removed.(â¯†Äüÿÿÿÿ
+R	java:S125³"<This block of commented-out lines of code should be removed.(Í¿ƒ

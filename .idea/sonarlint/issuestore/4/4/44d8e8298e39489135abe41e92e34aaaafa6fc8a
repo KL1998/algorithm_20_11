@@ -1,0 +1,15 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Âı‹Çøÿÿÿÿ
+
+java:S1319o"uThe type of the "sortSet" object should be an interface such as "SortedSet" rather than the implementation "TreeSet".(ªÊâæûÿÿÿÿ
+4
+java:S2178O"Correct this "|" to "||".(”µ‚Şúÿÿÿÿ
+/
+java:S21780"Correct this "|" to "||".(¨íÁ•
+k	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö‡…İûÿÿÿÿ
+/
+java:S2178L"Correct this "|" to "||".(Öıïø
+
+java:S1319"kThe type of the "set" object should be an interface such as "Set" rather than the implementation "HashSet".(¤¯Ÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±ÙŠÉ
+k	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö‡…İûÿÿÿÿ

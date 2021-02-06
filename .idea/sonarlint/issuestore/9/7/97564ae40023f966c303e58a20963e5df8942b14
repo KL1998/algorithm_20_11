@@ -1,0 +1,11 @@
+
+`	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(™¬¨õ
+r	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ©è±ûÿÿÿÿ
+W
+java:S2259"CA "NullPointerException" could be thrown; "dpone" is nullable here.(±¨»­
+N
+java:S1118":Add a private constructor to hide the implicit public one.(™¬¨õ
+:
+java:S1168"&Return an empty array instead of null.(¥¹ï
+:
+java:S1168"&Return an empty array instead of null.(¥¹ï

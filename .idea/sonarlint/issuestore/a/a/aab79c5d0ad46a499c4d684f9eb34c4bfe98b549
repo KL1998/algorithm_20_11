@@ -1,0 +1,17 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(—ƒâ·ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×Ëåıÿÿÿÿ
+f
+java:S1149M"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(í°Ş
+X
+java:S2094
+"BRemove this empty class, write its code or make it an "interface".(óÙ×•
+f	java:S116"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿë“°øÿÿÿÿ
+a	java:S116"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë‹¿‘
+f
+java:S1149M"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(í°Ş
+h
+java:S3776X"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(½«ÛŞ
+V	java:S125`"<This block of commented-out lines of code should be removed.(ù‘µ¹üÿÿÿÿ
+P	java:S125e"<This block of commented-out lines of code should be removed.(«Ï¥O
+V	java:S125g"<This block of commented-out lines of code should be removed.(´êÛúÿÿÿÿ

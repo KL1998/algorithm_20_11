@@ -1,0 +1,20 @@
+
+g	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€§
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ©è±ûÿÿÿÿ
+d	java:S116"ORename this field "MAXV" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ÿæ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÔ•øÿÿÿÿ
+d	java:S100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘°¾È
+Q	java:S1258"<This block of commented-out lines of code should be removed.(ÉÀ²ú
+h
+java:S3776P"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Ş¯ëô
+Q	java:S125
+"<This block of commented-out lines of code should be removed.(¯åø
+D
+java:S1121X".Extract the assignment out of this expression.(†ËŒ“
+c	java:S100P"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş¯ëô
+u
+java:S3012¤"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¤‰ÎÎúÿÿÿÿ
+f	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓùÚÄ
+f	java:S117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ÌÎ
+V	java:S125"<This block of commented-out lines of code should be removed.(Ûá‹ùÿÿÿÿ
+R	java:S125á"<This block of commented-out lines of code should be removed.(ƒ¡Õ”
