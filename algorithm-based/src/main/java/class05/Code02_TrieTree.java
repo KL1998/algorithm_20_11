@@ -2,7 +2,10 @@ package class05;
 
 import java.util.HashMap;
 
-// 该程序完全正确
+/**
+ * 前缀树
+ */
+
 public class Code02_TrieTree {
 
 	public static class Node1 {
@@ -39,10 +42,12 @@ public class Code02_TrieTree {
 		public Trie1() {
 			root = new Node1();
 		}
+
 		/**
 		 * 新增一个字符串
 		 * @param word
 		 */
+
 		public void insert(String word) {
 			if (word == null) {
 				return;
@@ -77,10 +82,14 @@ public class Code02_TrieTree {
 			if (search(word) != 0) {
 				char[] chs = word.toCharArray();
 				Node1 node = root;
+				//沿路pass-- 头节点先 --
 				node.pass--;
 				int path = 0;
 				for (int i = 0; i < chs.length; i++) {
+					//当前节点走向的路
 					path = chs[i] - 'a';
+
+					//如果当前节点遍历到得节点其下面得节点 pass -- 之后 是0 说明后面没路了
 					//如果path-- 等于0 断开当前节点下面的链
 					if (--node.nexts[path].pass == 0) {
 						node.nexts[path] = null;
@@ -88,6 +97,7 @@ public class Code02_TrieTree {
 					}
 					node = node.nexts[path];
 				}
+				//最后一个节点的 end--
 				node.end--;
 			}
 		}

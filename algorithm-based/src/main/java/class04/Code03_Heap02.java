@@ -5,11 +5,16 @@ import java.util.Comparator;
 import java.util.HashMap;
 import java.util.PriorityQueue;
 
+/**
+ * 手动实现堆
+ * 并提供 用户 一个 修改堆中某个元素的值后 O(logN) 调整代价的方法
+ */
 public class Code03_Heap02 {
 
 	// 堆
 	public static class MyHeap<T> {
 		private ArrayList<T> heap;
+		//记录元素在堆中的位置
 		private HashMap<T, Integer> indexMap;
 		private int heapSize;
 		private Comparator<? super T> comparator;

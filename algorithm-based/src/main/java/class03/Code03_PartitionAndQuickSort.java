@@ -1,13 +1,70 @@
 package class03;
 
+/**
+ * 经典快排 + 经典快排 改进 + 随机快排
+ */
 public class Code03_PartitionAndQuickSort {
 
-	public static void swap(int[] arr, int i, int j) {
-		int tmp = arr[i];
-		arr[i] = arr[j];
-		arr[j] = tmp;
+	//经典的快排  划分值为数组末尾的数
+	//划分方式采用partition 将 <= 划分值 数放在左边  >划分值得部分放右边
+	public static void quickSort1(int[] arr) {
+		if (arr == null || arr.length < 2) {
+			return;
+		}
+		process1(arr, 0, arr.length - 1);
 	}
 
+	public static void process1(int[] arr, int L, int R) {
+		if (L >= R) {
+			return;
+		}
+		// L..R partition arr[R]  [   <=arr[R]   arr[R]    >arr[R]  ]
+		int M = partition(arr, L, R);
+		process1(arr, L, M - 1);
+		process1(arr, M + 1, R);
+	}
+
+	//经典快排的改进  划分值为数组末尾的数
+	//划分方式采用 netherlandsFlag 荷兰国旗的划分方式
+	public static void quickSort2(int[] arr) {
+		if (arr == null || arr.length < 2) {
+			return;
+		}
+		process2(arr, 0, arr.length - 1);
+	}
+
+	public static void process2(int[] arr, int L, int R) {
+		if (L >= R) {
+			return;
+		}
+		int[] equalArea = netherlandsFlag(arr, L, R);
+		process2(arr, L, equalArea[0] - 1);
+		process2(arr, equalArea[1] + 1, R);
+	}
+
+	//随机快排 划分值 采用随机值
+	//划分方式采用 netherlandsFlag 荷兰国旗的划分方式
+	public static void quickSort3(int[] arr) {
+		if (arr == null || arr.length < 2) {
+			return;
+		}
+		process3(arr, 0, arr.length - 1);
+	}
+
+	public static void process3(int[] arr, int L, int R) {
+		if (L >= R) {
+			return;
+		}
+		swap(arr, L + (int) (Math.random() * (R - L + 1)), R);
+		//随机快排使用荷兰国旗的划分方式
+		int[] equalArea = netherlandsFlag(arr, L, R);
+		process3(arr, L, equalArea[0] - 1);
+		process3(arr, equalArea[1] + 1, R);
+	}
+
+
+
+	//将 <= 划分值 数放在左边  >划分值得部分放右边
 	public static int partition(int[] arr, int L, int R) {
 		if (L > R) {
 			return -1;
@@ -27,8 +84,11 @@ public class Code03_PartitionAndQuickSort {
 		return lessEqual;
 	}
 
+
+
 	// arr[L...R] 玩荷兰国旗问题的划分，以arr[R]做划分值
 	//  <arr[R]  ==arr[R]  > arr[R]
+	// ==arr[R] 的部分不用动 最后返回 < 区 右边界 和  > 区 左边界
 	public static int[] netherlandsFlag(int[] arr, int L, int R) {
 		if (L > R) {
 			return new int[] { -1, -1 };
@@ -52,55 +112,14 @@ public class Code03_PartitionAndQuickSort {
 		return new int[] { less + 1, more };
 	}
 
-	public static void quickSort1(int[] arr) {
-		if (arr == null || arr.length < 2) {
-			return;
-		}
-		process1(arr, 0, arr.length - 1);
+
+	public static void swap(int[] arr, int i, int j) {
+		int tmp = arr[i];
+		arr[i] = arr[j];
+		arr[j] = tmp;
 	}
 
-	public static void process1(int[] arr, int L, int R) {
-		if (L >= R) {
-			return;
-		}
-		// L..R partition arr[R]  [   <=arr[R]   arr[R]    >arr[R]  ]
-		int M = partition(arr, L, R);
-		process1(arr, L, M - 1);
-		process1(arr, M + 1, R);
-	}
 
-	public static void quickSort2(int[] arr) {
-		if (arr == null || arr.length < 2) {
-			return;
-		}
-		process2(arr, 0, arr.length - 1);
-	}
-
-	public static void process2(int[] arr, int L, int R) {
-		if (L >= R) {
-			return;
-		}
-		int[] equalArea = netherlandsFlag(arr, L, R);
-		process2(arr, L, equalArea[0] - 1);
-		process2(arr, equalArea[1] + 1, R);
-	}
-
-	public static void quickSort3(int[] arr) {
-		if (arr == null || arr.length < 2) {
-			return;
-		}
-		process3(arr, 0, arr.length - 1);
-	}
-
-	public static void process3(int[] arr, int L, int R) {
-		if (L >= R) {
-			return;
-		}
-		swap(arr, L + (int) (Math.random() * (R - L + 1)), R);
-		int[] equalArea = netherlandsFlag(arr, L, R);
-		process3(arr, L, equalArea[0] - 1);
-		process3(arr, equalArea[1] + 1, R);
-	}
 
 	// for test
 	public static int[] generateRandomArray(int maxSize, int maxValue) {

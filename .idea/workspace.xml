@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c648626-3322-451b-a14a-5b93d5edf8f6" name="Default Changelist" comment="" />
+    <list default="true" id="8c648626-3322-451b-a14a-5b93d5edf8f6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/algorithm-based/src/main/java/class03/Code02_SmallSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-based/src/main/java/class03/Code02_SmallSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-based/src/main/java/class03/Code03_PartitionAndQuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-based/src/main/java/class03/Code03_PartitionAndQuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-based/src/main/java/class04/Code01_Comparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-based/src/main/java/class04/Code01_Comparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-based/src/main/java/class04/Code02_Heap01.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-based/src/main/java/class04/Code02_Heap01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-based/src/main/java/class04/Code03_Heap02.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-based/src/main/java/class04/Code03_Heap02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-based/src/main/java/class04/Code04_HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-based/src/main/java/class04/Code04_HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-based/src/main/java/class04/Code05_SortArrayDistanceLessK.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-based/src/main/java/class04/Code05_SortArrayDistanceLessK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-based/src/main/java/class05/Code01_TrieTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-based/src/main/java/class05/Code02_TrieTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-based/src/main/java/class05/Code02_TrieTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-based/src/main/java/class05/Code03_CountSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-based/src/main/java/class05/Code03_CountSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-based/src/main/java/class05/Code04_RadixSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-based/src/main/java/class05/Code04_RadixSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-based/src/main/java/class05/code01Trietree.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +45,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/trainingcamp004" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -66,10 +79,10 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -232,7 +245,8 @@
       <workItem from="1612069761235" duration="6944000" />
       <workItem from="1612144915628" duration="3760000" />
       <workItem from="1612266277758" duration="32000" />
-      <workItem from="1612631488254" duration="604000" />
+      <workItem from="1612631488254" duration="992000" />
+      <workItem from="1612678283415" duration="18016000" />
     </task>
     <servers />
   </component>
@@ -240,10 +254,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="94" key="#Project_Structure" timestamp="1612074028804">
+    <state x="361" y="94" key="#Project_Structure" timestamp="1612634980406">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="94" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1612074028804" />
+    <state x="361" y="94" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1612634980406" />
     <state x="574" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1608700881531">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -296,10 +310,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="408" y="136" key="NewModule_or_Project.wizard/0.0.1536.864@0.0.1536.864" timestamp="1607241657229" />
-    <state x="215" y="0" key="SettingsEditor" timestamp="1611322059414">
+    <state x="375" y="20" key="SettingsEditor" timestamp="1612698511446">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="215" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1611322059414" />
+    <state x="375" y="20" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1612698511446" />
     <state x="228" y="162" key="new project wizard" timestamp="1611321781779">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -318,7 +332,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/algorithm-based/src/main/java/class05/Code02_TrieTree.java</url>
-          <line>294</line>
+          <line>304</line>
           <properties class="class05.Code02_TrieTree" method="main">
             <option name="EMULATED" value="true" />
           </properties>
